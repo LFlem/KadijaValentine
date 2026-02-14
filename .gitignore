@@ -119,5 +119,4 @@ dmypy.json
 .pyre/
 
 # Streamlit
-.streamlit/
 .streamlit/secrets.toml

@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#d63384"
+backgroundColor = "#fff5f7"
+secondaryBackgroundColor = "#f0e6ff"
+textColor = "#212529"
+font = "sans serif"
+
+[client]
+showErrorDetails = true
+showGitHub = false
+
+[logger]
+level = "info"
+
+[server]
+headless = true
+port = 8501
