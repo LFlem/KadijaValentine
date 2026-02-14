@@ -8,6 +8,7 @@ font = "sans serif"
 [client]
 showErrorDetails = true
 showGitHub = false
+toolbarMode = "viewer"
 
 [logger]
 level = "info"
